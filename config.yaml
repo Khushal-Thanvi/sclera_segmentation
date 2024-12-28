@@ -1,0 +1,6 @@
+path: "D:/Programing/Deep learning/sclera_sem_seg/data"
+train: "images/train"
+val: "images/val"
+
+nc: 1
+names: ['sclera']
